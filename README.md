@@ -1,9 +1,6 @@
 <h1 align="center">
-    CRANE - dHDSI
+    CRANE - Decentralised Health Dataspace Infrastructure
 </h1>
-<h2 align="center">
-    Decentralised Health Dataspace Infrastructure
-</h2>
 
 <p align="center">
     <a href="/../../commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/decentralised-dataexchange/crane-dhdsi-docs?style=flat"></a>
