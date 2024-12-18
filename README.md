@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="#about">About</a> •
+  <a href="#funding">Funding</a> •
   <a href="#references">References</a>
 </p>
 
