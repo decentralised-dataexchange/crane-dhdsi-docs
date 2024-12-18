@@ -23,3 +23,9 @@ This repository contains the external wiki for the CRANE - dHDSI team. Only publ
 * [CRANE - dHDSI Wikipage](https://github.com/decentralised-dataexchange/crane-dhdsi-docs/wiki)
 
 <img width="1438" alt="Screenshot 2023-11-24 at 19 18 06" src="https://github.com/decentralised-dataexchange/data4diabetes-app/assets/455274/b7a7b02a-1308-478b-b8ac-8e765ae87df1">
+
+## Funding
+
+![image](https://github.com/user-attachments/assets/12d5ba1c-0e01-44fa-9357-fe8a54fd8138)
+
+The project is co-funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No 965277. However, the views and opinions expressed are those of the author(s) only and do not necessarily reflect those of the European Union or the granting authority. Neither the European Union nor the granting authority can be held responsible.
